@@ -3,12 +3,8 @@
 Goblins Magical Loan System
 A sophisticated system for approving loans to wizards starting businesses.
 
-To test your current solution, run the `test_my_solution.py` file.
-
-Refer to the instructions on Canvas for more information.
-
 "I have neither given nor received help on this assignment."
-author: YOUR NAME HERE
+author: Rohan Ravulapalli
 """
 __version__ = 4
 

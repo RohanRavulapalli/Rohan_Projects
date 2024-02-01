@@ -149,7 +149,7 @@ def standard_deviation(list_of_nums:[int])->float:
     returns:
         float: float value is returned, representing the standard deviation of the list
         None: special value returned when empty list is inputted
-    '''
+    ''' 
     if count(list_of_nums) >= 2:
         standard_dev = (((summate(square(list_of_nums)))-(summate(list_of_nums)**2)/
                        (count(list_of_nums)))/(count(list_of_nums)-1))**.5
@@ -157,11 +157,6 @@ def standard_deviation(list_of_nums:[int])->float:
     else:
         standard_dev = None
     return standard_dev
-
-# The following code can be used to try out your functions.
-# Uncomment each line as you implement the functions to try them out.
-# When you have implemented each function, copy the output from the
-#   console into a comment below.
     
 print("We asked", count(SURVEY_RESULTS), "people the following question.")
 print('"How many pets do you own?"')

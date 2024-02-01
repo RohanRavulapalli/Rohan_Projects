@@ -181,10 +181,3 @@ print("\tStandard Deviation:", standard_deviation(SURVEY_RESULTS))
 # Minimum: 1
 # Square: [1, 4, 4, 1, 1, 4, 4, 1, 1, 1]
 # Standard Deviation: 0.5163977794943221
-
-# How these results will help us crush these puny humans:
-# It seems that these humans are deeply infatuated with what they call their "Pets",
-# With this rather obsessive behavior surrounding these creatures known as "Puppies" and "Kittens".
-# With this, we have the chance to invade their planet while they're distracted. Furthermore, we can use our own
-# other wordly appearance to behave as "Pets" in front of these mere humans, lowering their guard, increasing
-# our chances to thrive in their resource-rich world.

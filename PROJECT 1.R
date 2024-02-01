@@ -38,3 +38,4 @@ title(sub = 'Avg annual hate crimes commited per 100k', adj = 0.5, font.sub = 4)
 
 # Outputs:
 
+![]("C:\Users\rravu\Pictures\Screenshots\Screenshot 2024-01-31 194249.png") ![]("C:\Users\rravu\Pictures\Screenshots\Screenshot 2024-01-31 194358.png")

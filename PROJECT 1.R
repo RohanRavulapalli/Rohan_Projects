@@ -1,3 +1,5 @@
+# Rohan Ravulapalli - Virginia Tech - Analyzing Annual Hate Crimes per 100K across States.
+
 setwd("C:\\Users\\rravu\\Downloads\\Project 1")
 data <- read.table("hate_crimes.csv", sep = ",", header = TRUE,
                   stringsAsFactors = FALSE)

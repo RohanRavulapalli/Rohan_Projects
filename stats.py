@@ -1,14 +1,6 @@
 """
 This module is a collection of statistical functions for analyzing
 the results of a non-nominal survey question.
-
-To test your current solution, run the `test_my_solution.py` file.
-Refer to the instructions on Canavs for more information.
-
-Author name: 
-I have neither given nor received unauthorized assistance on
-this assignment. I did not fabricate the answers to my
-survey question.
 """
 __version__ = 1
 

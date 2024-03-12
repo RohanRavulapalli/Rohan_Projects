@@ -5,8 +5,9 @@ Created on Thu Mar  7 23:19:24 2024
 @author: rravu
 """
 
-
 def equation():
+    # This function takes a quadratic equation in the form of ax^2 + bx + c as input, and then identifies the constants a, b and c of the equation
+    
     equation = input('Please enter your quadratic function here: ')
     
     while '^2' not in equation:
@@ -78,7 +79,8 @@ def equation():
      
     return coefficients
 
-def Formula(equation_): # Accessing global variable equation_
+def Formula(equation_): 
+    # This function takes the list of coefficients, and then computes the roots of the quadratic equation through the use of the quadratic formula
     import cmath
     import math
     a = equation_[0]

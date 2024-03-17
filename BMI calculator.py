@@ -7,7 +7,7 @@ Created on Sun Mar 17 10:44:56 2024
 
 def BMI():
     '''
-    This function calclates an individual's BMI based on their inputted height and weight.
+    This function calculates an individual's BMI based on their inputted height and weight.
     It also tells them whether they are in the healthy range for their ethnicity (as studies showcase
     certain ethnicities can be classified as overweight, on a population level, at an even lower BMI compared to 
     the traditonal caucasian BMI scale of 18.5 - 24.9)
